@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @daetu01
-- 👀 I’m interested in Swift, Python
+- 👀 I’m interested in Swift, Python, java, jscript, node.js
 - 🌱 I’m currently learning nothing
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ...
