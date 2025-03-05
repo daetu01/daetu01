@@ -4,4 +4,4 @@
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ...
 
-![header](https://capsule-render.vercel.app/api?type=rounded?text=반갑습니다.)
+![header](https://capsule-render.vercel.app/api?type=rounded&text=반갑습니다.)
