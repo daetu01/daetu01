@@ -5,7 +5,7 @@
 - 📫 How to reach me ...
 
 
-![header](https://capsule-render.vercel.app/api?type=venom&text=반갑습니다.&fontColor=d6ace6)
+![header](https://capsule-render.vercel.app/api?type=venom&color=random&text=반갑습니다.&fontColor=ffffff)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=하이하이;Second+line+of+text)](https://git.io/typing-svg)
 
