@@ -11,3 +11,7 @@
 
 Won Daean 
 ---
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=daetu01)](https://github.com/daetu01/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daetu01)](https://github.com/daetu01/github-readme-stats)
