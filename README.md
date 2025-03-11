@@ -1,13 +1,8 @@
-- 👋 Hi, I’m @daetu01
-- 👀 I’m interested in Spring Boot, java, python, tensorflow etc...
-- 🌱 I’m currently learning LangGraph
-- 💞️ I’m looking to collaborate on 
-- 📫 How to reach me ...
+<div align=center>
+  ![header](https://capsule-render.vercel.app/api?type=venom&color=random&text=반갑습니다.&fontColor=ffffff)
+</div>
 
-
-![header](https://capsule-render.vercel.app/api?type=venom&color=random&text=반갑습니다.&fontColor=ffffff)
-
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=하이하이;Second+line+of+text)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=즐;Second+line+of+text)](https://git.io/typing-svg)
 
 Won Daean 
 ---
