@@ -47,13 +47,45 @@
   <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=Redis&logoColor=white" />
   <img src="https://img.shields.io/badge/PL/SQL-F80000?style=flat-square&logo=Oracle&logoColor=white" />
 
-  ### 🔧 Other Tools  
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white" />
-  <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=flat-square&logo=AdobeIllustrator&logoColor=white" />
-  <img src="https://img.shields.io/badge/PhotoShop-31A8FF?style=flat-square&logo=AdobePhotoshop&logoColor=white" />
-  <img src="https://img.shields.io/badge/LogicPro-1E1E1E?style=flat-square&logo=LogicPro&logoColor=white" />
-
 </div>
+
+---
+
+## 📚 Education  
+
+- **📌 Gachon University** – **Fashion Design**  
+  - 🎓 **Double Major:** Computer Science  
+
+- **📌 SSY Education Center (23.12 - 24.06)**  
+  - 💡 Java & Spring-based Web Development  
+
+- **📌 KT AIVLE School (24.09 - 25.02)**  
+  - 💡 AI & Data Science Program  
+
+---
+
+## 💻 Projects  
+
+### 🛫 대한항공 DB 클론 프로젝트  
+- **기술 스택:** Oracle DB, PL/SQL, Trigger, Job  
+- **주요 역할:**  
+  - **PL/SQL, Trigger, Job을 활용한 DB 설계 및 트랜잭션 최적화**  
+  - **멤버 및 포인트 관리 시스템 구축**  
+
+### 🛍 SSG 웹사이트 클론 프로젝트  
+- **기술 스택:** Spring Legacy, JSP, Oracle DB, MyBatis  
+- **주요 역할:**  
+  - **Spring Legacy 기반의 웹 애플리케이션 개발**  
+  - **회원 및 관심 상품 기능 구현 및 MyBatis 기반 데이터 연동 최적화**  
+
+### 🚚 도심 물류 최적화 프로젝트  
+- **기술 스택:** Spring Boot, Mustache, FastAPI, JPA, Redis, MySQL, Docker, Azure  
+- **주요 역할:**  
+  - **Spring Security를 활용한 인증 및 권한 관리 구현**  
+  - **백엔드 API 설계 및 데이터 흐름 최적화**  
+  - **LangChain과 OpenAI API를 활용한 AI 기반 챗봇 개발**  
+  - **FastAPI를 활용한 AI 모델 서비스화 및 API Gateway 구축**  
+  - **Docker를 이용한 컨테이너화 및 Azure Web App을 통한 배포**  
 
 ---
 
@@ -68,16 +100,3 @@
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daetu01&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
-
----
-
-### 📚 Education  
-
-#### 📌 Gachon University – Fashion Design  
-<small>🎓 Double Major: Computer Science</small>  
-
-#### 📌 SSY Education Center (23.12 - 24.06)  
-<small>💡 Java & Spring-based Web Development</small>  
-
-#### 📌 KT AIVLE School (24.09 - 25.02)  
-<small>💡 AI & Data Science Program</small>  
