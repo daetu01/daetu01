@@ -1,7 +1,7 @@
 ## 🌟 Won Daean  
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=random&text=반갑습니다.&fontColor=ffffff&fontSize=50&fontAlignY=50" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=random&text=반갑습니다.&fontColor=ffffff&fontSize=45&fontAlignY=50" />
 </div>
 
 ---
@@ -66,3 +66,16 @@
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daetu01&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
+
+---
+
+## 📚 Education  
+
+📌 **쌍용교육센터** (23.12 - 24.06)  
+💡 Java & Spring 기반 웹 개발 과정  
+
+📌 **KT AIVLE School** (24.09 - 25.02)  
+💡 AI 및 데이터 사이언스 과정  
+
+---
+
