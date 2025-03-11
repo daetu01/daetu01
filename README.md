@@ -70,22 +70,23 @@
 - **기술 스택:** Oracle DB, PL/SQL, Trigger, Job  
 - **주요 역할:**  
   - **PL/SQL, Trigger, Job을 활용한 DB 설계 및 트랜잭션 최적화**  
-  - **멤버 및 포인트 관리 시스템 구축**  
+  - **회원 및 포인트 관리 시스템 개발**  
 
 ### 🛍 SSG 웹사이트 클론 프로젝트  
 - **기술 스택:** Spring Legacy, JSP, Oracle DB, MyBatis  
 - **주요 역할:**  
-  - **Spring Legacy 기반의 웹 애플리케이션 개발**  
-  - **회원 및 관심 상품 기능 구현 및 MyBatis 기반 데이터 연동 최적화**  
+  - **Spring Legacy 기반 웹 애플리케이션 개발**  
+  - **Spring Security를 활용한 회원 인증 및 관심 상품 기능 구현**  
+  - **jQuery 및 Ajax를 활용한 비동기 데이터 처리 최적화**  
 
 ### 🚚 도심 물류 최적화 프로젝트  
 - **기술 스택:** Spring Boot, Mustache, FastAPI, JPA, Redis, MySQL, Docker, Azure  
 - **주요 역할:**  
-  - **Spring Security를 활용한 인증 및 권한 관리 구현**  
-  - **백엔드 API 설계 및 데이터 흐름 최적화**  
-  - **LangChain과 OpenAI API를 활용한 AI 기반 챗봇 개발**  
-  - **FastAPI를 활용한 AI 모델 서비스화 및 API Gateway 구축**  
-  - **Docker를 이용한 컨테이너화 및 Azure Web App을 통한 배포**  
+  - **JWT 기반 인증 및 권한 관리 시스템 구현**  
+  - **백엔드 API 설계 및 데이터 처리 최적화**  
+  - **LangChain과 OpenAI API를 활용한 AI 챗봇 개발**  
+  - **FastAPI 기반 AI 모델 서비스화 및 API Gateway 구축**  
+  - **Docker를 활용한 컨테이너 배포 및 Azure Web App을 통한 서비스 운영**  
 
 ---
 
