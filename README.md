@@ -69,13 +69,15 @@
 
 ---
 
-## 📚 Education  
+### 📚 Education  
 
-📌 **쌍용교육센터** (23.12 - 24.06)  
-💡 Java & Spring 기반 웹 개발 과정  
+#### 📌 Gachon University – Fashion Design  
+##### 🎓 Double Major: Computer Science  
 
-📌 **KT AIVLE School** (24.09 - 25.02)  
-💡 AI 및 데이터 사이언스 과정  
+#### 📌 SSY Education Center (23.12 - 24.06)  
+##### 💡 Java & Spring-based Web Development  
 
----
+#### 📌 KT AIVLE School (24.09 - 25.02)  
+##### 💡 AI & Data Science Program  
+
 
