@@ -15,6 +15,7 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black" />
   <img src="https://img.shields.io/badge/JQuery-0769AD?style=flat-square&logo=JQuery&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ajax-0078D4?style=flat-square&logo=JavaScript&logoColor=white" />
 
   ### ⚙️ Back-End  
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white" />
@@ -44,6 +45,7 @@
   <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white" />
   <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=Redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/PL/SQL-F80000?style=flat-square&logo=Oracle&logoColor=white" />
 
   ### 🔧 Other Tools  
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white" />
@@ -72,12 +74,10 @@
 ### 📚 Education  
 
 #### 📌 Gachon University – Fashion Design  
-##### 🎓 Double Major: Computer Science  
+<small>🎓 Double Major: Computer Science</small>  
 
 #### 📌 SSY Education Center (23.12 - 24.06)  
-##### 💡 Java & Spring-based Web Development  
+<small>💡 Java & Spring-based Web Development</small>  
 
 #### 📌 KT AIVLE School (24.09 - 25.02)  
-##### 💡 AI & Data Science Program  
-
-
+<small>💡 AI & Data Science Program</small>  
