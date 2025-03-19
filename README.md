@@ -56,7 +56,7 @@
 - **📌 Gachon University** – **Fashion Design**  
   - 🎓 **Double Major:** Computer Science  
 
-- **📌 SSY Education Center (23.12 - 24.06)**  
+- **📌 SIST Education Center (23.12 - 24.06)**  
   - 💡 Java & Spring-based Web Development  
 
 - **📌 KT AIVLE School (24.09 - 25.02)**  
