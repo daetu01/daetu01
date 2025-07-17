@@ -6,6 +6,9 @@
 
 ---
 
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=daiswhat)](https://solved.ac/daiswhat/)
+
 ## 🛠 Tech Stack  
 
 <div align="center">
