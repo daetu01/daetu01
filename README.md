@@ -65,6 +65,9 @@
 - **📌 KT AIVLE School (24.09 - 25.02)**  
   - 💡 AI & Data Science Program  
 
+- **📌 SSAFY (25.07 ~ )**  
+  - 💡 AI & Algorithm Program  
+
 ---
 
 ## 💻 Projects  
