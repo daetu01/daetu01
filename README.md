@@ -93,6 +93,34 @@
   - **FastAPI 기반 AI 모델 서비스화 및 API Gateway 구축**  
   - **Docker를 활용한 컨테이너 배포 및 Azure Web App을 통한 서비스 운영**  
 
+
+### 🧑‍💻 Virtudy - AI 아바타 기반 실시간 스터디 플랫폼
+- **기술 스택:** Vue, Spring Boot, MySQL, Redis, Kafka, Docker, AWS EC2, Nginx, FastAPI, WebRTC, LiveKit
+- **주요 역할:**  
+  - **Google OAuth2/JWT 기반 로그인 및 인증/인가 시스템 구현**
+  - **Spring Security 기반 API 접근 제어 및 사용자 인증 로직 개발**
+  - **Redis를 활용한 토큰 관리 및 인증 안정성 개선**
+  - **스터디룸 생성/조회/관리 API 개발**
+  - **Docker, Jenkins, Nginx 기반 배포 환경 구성**
+  - **LiveKit 기반 실시간 스터디룸 연결 구조 구축**
+
+### 🎮 4인 협동 하드코어 멀티플레이 게임
+- **기술 스택:** Unity, Photon Fusion, C#
+- **주요 역할:**  
+  - **4인 협동 멀티플레이 게임의 클라이언트 개발 담당**
+  - **전투 시스템 및 스킬 시스템 구현**
+  - **플레이어 입력, 이동, 공격 로직 개발**
+  - **컴포넌트 책임 분리 및 리팩토링을 통한 유지보수성 개선**
+  - **기능 확장성을 고려한 클라이언트 구조 개선**
+
+### 🌙 Sleeper - AI 수면 관리 서비스
+- **기술 스택:** Spring Boot, Spring Security, JWT, Google OAuth2, MySQL, AI Model API
+- **주요 역할:**  
+  - **수면 관리 서비스의 백엔드 개발 담당**
+  - **Google OAuth2/JWT 기반 사용자 인증/인가 시스템 구축**
+  - **관리자 운영 대시보드 기능 구현**
+  - **AI 모델 분석 결과 저장 및 관리 기능 개발**
+  - **핵심 백엔드 API 우선 구현을 통해 MVP를 예상 일정 대비 7일 빠르게 완료**
 ---
 
 ## 📊 GitHub Stats  
